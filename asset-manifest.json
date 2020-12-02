@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devils-advocates/static/css/main.9141bdb1.chunk.css",
+    "main.js": "/devils-advocates/static/js/main.a95be47e.chunk.js",
+    "main.js.map": "/devils-advocates/static/js/main.a95be47e.chunk.js.map",
+    "runtime-main.js": "/devils-advocates/static/js/runtime-main.0a2a6753.js",
+    "runtime-main.js.map": "/devils-advocates/static/js/runtime-main.0a2a6753.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/devils-advocates/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/devils-advocates/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/devils-advocates/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/devils-advocates/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/devils-advocates/index.html",
+    "static/css/main.9141bdb1.chunk.css.map": "/devils-advocates/static/css/main.9141bdb1.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/devils-advocates/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a2a6753.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.9141bdb1.chunk.css",
+    "static/js/main.a95be47e.chunk.js"
+  ]
+}
